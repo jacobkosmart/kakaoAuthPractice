@@ -54,6 +54,8 @@ DerivedData/
 
 *.xcconfig
 
+Config.xcconfig
+
 
 
 
